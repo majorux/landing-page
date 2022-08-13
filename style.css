@@ -3,6 +3,7 @@ body{
   flex-direction: column;
   width: 100vw;
   height: 10vh;
+  margin: 0;
 }
 
 .first{
